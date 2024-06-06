@@ -8,3 +8,4 @@
 
 * Uso do comando Git Restore
 * Comando Git Push
+* Comando Git Pull
