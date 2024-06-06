@@ -7,3 +7,4 @@
 ## Fazendo novas alterações no Git...
 
 * Uso do comando Git Restore
+* Comando Git Push
