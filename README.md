@@ -1,4 +1,4 @@
-## Bem-vindo(a) ao perfil meu perfil! 😁<br><br>
+## Bem-vindo(a) ao meu perfil! 😁<br><br>
 
 <p>Sou um estudante da área de programação que optou pela transição de carreira buscando uma melhor qualidade de vida, para mim e para minha família.</p>
 <p>Estou em busca de oportunidades na área, sejam para estágio e/ou efetivação, para tal, criei esse repositório como um portfólio e nele vou colocar alguns projetos que realizei e alguns que estou trabalhando ainda, fique a vontade para conferir!</p>
