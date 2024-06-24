@@ -1,4 +1,7 @@
-## Bem-vindo(a) ao perfil de Éder Campos 😁
+## Bem-vindo(a) ao perfil meu perfil! 😁<br><br>
+
+<p>Sou um estudante da área de programação que optou pela transição de carreira buscando uma melhor qualidade de vida, para mim e para minha família.</p>
+<p>Estou em busca de oportunidades na área, sejam para estágio e/ou efetivação</p>
 
  <div>
    <a href="https://github.com/Khondart">
