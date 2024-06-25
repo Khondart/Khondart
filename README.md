@@ -20,7 +20,7 @@
 <br>
  
 ### Agradeço a visita e fico no aguardo do seu contato 😁
- 
+  
 <div> 
   <a href="https://www.instagram.com/eder_gabriel_campos/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
   <a href = "mailto:edergabriel94.2014@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white"></a>
